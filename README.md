@@ -1,0 +1,1 @@
+This project presents an interactive HR Data Analysis Dashboard created using Tableau. The dashboard helps analyze key HR metrics such as employee demographics, attrition trends, department-wise distribution, and performance indicators to support data-driven HR decisions.
